@@ -2,6 +2,8 @@
 
 Welcome to my **STDS Portfolio**. This repository is a central hub for the **The Selected Topics fo Data Science Course**.
 
+![image](bg.png)
+
 ## 📂 Repository Structure
 
 ### 1. [STDS Projects](./STDS)
